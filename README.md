@@ -19,3 +19,5 @@ Coming soon.
 ## Authors
 [Ali Irani](https://www.linkedin.com/in/aliirani94/)
 
+## Subscribe
+[Subscribe](http://eepurl.com/ih2-Pn) to keep updated with the latest tool releases and join our new community!
