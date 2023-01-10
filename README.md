@@ -14,7 +14,7 @@ This Excel spreadsheet allows for the estimated calculation of the spatial requi
 
 ## Documentation
 
-Coming soon. 
+Coming soon. For all questions and comments about HVACer, please contact the author.
 
 ## Authors
 [Ali Irani](https://www.linkedin.com/in/aliirani94/)
