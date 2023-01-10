@@ -4,7 +4,6 @@ HVACer is a series of workflows and tools that enable and empower architects to 
 
 ## Scripts
 #### [HVACer](https://github.com/aliirani73/hvacer/blob/main/scripts/HVACer.gh)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 This Grasshopper script allows users to select, simulate, and visualize different HVAC systems for early stage massing models. Performance metrics such as operational and embodied carbon, financial indicators, and spatial requirements are generated and used to inform system selection. Users are able to manipulate and modify the automatically generated system geometry based on their specific layout. 
 
