@@ -11,3 +11,11 @@ This Grasshopper script allows users to select, simulate, and visualize differen
 #### [Area Matrix](https://github.com/aliirani73/hvacer/blob/main/spreadsheets/Area%20Requirements%20Spreadsheet.xlsx)
 
 This Excel spreadsheet allows for the estimated calculation of the spatial requirements for building systems for a given building geometry. This spreadsheet should be used in the earliest design phase to inform preliminary area requirements. 
+
+## Documentation
+
+Coming soon. 
+
+## Authors
+[Ali Irani](https://www.linkedin.com/in/aliirani94/)
+
