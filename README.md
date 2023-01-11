@@ -20,4 +20,4 @@ Coming soon. For all questions and comments about HVACer, please contact the aut
 [Ali Irani](https://www.linkedin.com/in/aliirani94/)
 
 ## Subscribe
-[Subscribe](http://eepurl.com/ih2-Pn) to keep updated with the latest tool releases and join our new community!
+[Subscribe](http://eepurl.com/ih7iB1) to keep updated with the latest tool releases and join our new community!
