@@ -1,5 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/101660017/214353561-71d482fa-4dbf-4bd2-916e-20a49f351db5.png" width="500">
-
+# <img src="https://user-images.githubusercontent.com/101660017/214355298-4107fe0b-cc9d-472a-97ce-54377262e520.png" width="500">
 Systema Tools is a series of workflows and tools that enable and empower architects to understand, select, and design HVAC systems in a more effective integrated, early stage design process. 
 
 ## Scripts
