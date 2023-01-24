@@ -1,5 +1,5 @@
 # ![SystemaLogo](https://user-images.githubusercontent.com/101660017/214336643-a0507adf-822e-41b5-aee3-3e1e0f888002.png) 
-systema Tools is a series of workflows and tools that enable and empower architects to understand, select, and design HVAC systems in a more effective integrated, early stage design process. 
+Systema Tools is a series of workflows and tools that enable and empower architects to understand, select, and design HVAC systems in a more effective integrated, early stage design process. 
 
 ## Scripts
 #### [HVACer](https://github.com/aliirani73/hvacer/blob/main/scripts/HVACer.gh)
@@ -13,7 +13,7 @@ This Excel spreadsheet allows for the estimated calculation of the spatial requi
 
 ## Documentation
 
-Coming soon. For all questions and comments about HVACer, please contact the author.
+Coming soon. For all questions and comments about Systema Tools, please contact the author.
 
 ## Authors
 [Ali Irani](https://www.linkedin.com/in/aliirani94/)
