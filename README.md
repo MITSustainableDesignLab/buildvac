@@ -13,7 +13,7 @@ This Excel spreadsheet allows for the estimated calculation of the spatial requi
 
 ## Documentation
 
-Coming soon. For all questions and comments about Systema Tools, please contact the author.
+Coming soon. For all questions and comments about buildVAC, please contact the author.
 
 ## Authors
 [Ali Irani](https://www.linkedin.com/in/aliirani94/)
