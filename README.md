@@ -18,7 +18,7 @@ This Grasshopper script allows users to select, simulate, and visualize differen
 A sample file, for a typical 3 story medium office, can be downloaded [here](https://github.com/MITSustainableDesignLab/buildvac/blob/main/Example_MediumOffice_HVACComparison.zip) to be used with the script. 
 
 ## Tutorials
-1. [buildVAC Overview] (https://www.youtube.com/watch?v=Ccv9B7F0am8&ab_channel=MITSustainableDesignLab)
+1. [buildVAC Overview](https://www.youtube.com/watch?v=Ccv9B7F0am8&ab_channel=MITSustainableDesignLab)
 2. Area Requirement Matrix
 3. HVACer
 
