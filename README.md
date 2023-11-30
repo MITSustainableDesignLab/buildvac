@@ -14,12 +14,18 @@ buildVAC is a series of workflows and tools that enable architects to compare a 
 This Excel spreadsheet allows for the estimated calculation of the spatial requirements for building systems for a given building geometry. This spreadsheet should be used in the earliest design phase to inform preliminary area requirements. 
 
 ## 3. Scripts
-#### [HVACer](https://github.com/MITSustainableDesignLab/buildvac/blob/main/scripts/HVACer.gh)
+#### [HVACer-Commercial](https://github.com/MITSustainableDesignLab/buildvac/blob/main/scripts/HVACer.gh)
 [Video](https://www.youtube.com/watch?v=D_wDoszwwno&ab_channel=MITSustainableDesignLab)
 
-This Grasshopper script allows users to select, simulate, and visualize different HVAC systems for early stage massing models. Performance metrics such as operational and embodied carbon, financial indicators, and spatial requirements are generated and used to inform system selection. Users are able to manipulate and modify the automatically generated system geometry based on their specific layout. 
+This Grasshopper script allows users to select, simulate, and visualize different HVAC systems for early stage massing models for commercial office buildings. Performance metrics such as operational and embodied carbon, financial indicators, and spatial requirements are generated and used to inform system selection. Users are able to manipulate and modify the automatically generated system geometry based on their specific layout. 
 
 A sample file, for a typical 3 story medium office, can be downloaded [here](https://github.com/MITSustainableDesignLab/buildvac/blob/main/Example_MediumOffice_HVACComparison.zip) to be used with the script. 
+#### [HVACer-Residential](https://github.com/MITSustainableDesignLab/buildvac/blob/main/scripts/HVACer.gh)
+[Video](https://www.youtube.com/watch?v=D_wDoszwwno&ab_channel=MITSustainableDesignLab)
+
+This Grasshopper script allows users to select, simulate, and visualize different HVAC systems for early stage massing models for multi-family residential buildings. Performance metrics such as operational and embodied carbon, financial indicators, and spatial requirements are generated and used to inform system selection. Users are able to manipulate and modify the automatically generated system geometry based on their specific layout. 
+
+A sample file, for an example two-story multi-family housing unit, can be downloaded [here](https://github.com/MITSustainableDesignLab/buildvac/blob/main/Example_MediumOffice_HVACComparison.zip) to be used with the script. 
 
 ## Documentation
 
