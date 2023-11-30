@@ -24,7 +24,7 @@ A sample file, for a typical 3 story medium office, can be downloaded [here](htt
 
 This Grasshopper script allows users to select, simulate, and visualize different HVAC systems for early stage massing models for multi-family residential buildings. Performance metrics such as operational and embodied carbon, financial indicators, and spatial requirements are generated and used to inform system selection. Users are able to manipulate and modify the automatically generated system geometry based on their specific layout. 
 
-A sample file, for an example two-story multi-family housing unit, can be downloaded [here](MultiFamilyResidential - Sample.3dm) to be used with the script. 
+A sample file, for an example two-story multi-family housing unit, can be downloaded [here](https://github.com/MITSustainableDesignLab/buildvac/blob/main/MultiFamilyResidential - Sample.3dm) to be used with the script. 
 
 ## Documentation
 
