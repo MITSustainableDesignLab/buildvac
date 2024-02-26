@@ -32,6 +32,7 @@ Coming soon. For all questions and comments about buildVAC, please contact the a
 
 ## Authors
 [Ali Irani](https://www.linkedin.com/in/aliirani94/)
+
 [![DOI](https://zenodo.org/badge/763693771.svg)](https://zenodo.org/doi/10.5281/zenodo.10711823)
 
 ## Subscribe
