@@ -31,13 +31,11 @@ A sample file, for an example two-story multi-family housing unit, can be downlo
 Coming soon. For all questions and comments about buildVAC, please contact the author.
 
 ## Authors
-[Ali Irani](https://www.linkedin.com/in/aliirani94/)
-
-[![DOI](https://zenodo.org/badge/763693771.svg)](https://zenodo.org/doi/10.5281/zenodo.10711823)
-
 If you use this repository, please cite it as below:
 
 Irani, A., & Reinhart, C. (2023). buildvac (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.10711824
+
+[![DOI](https://zenodo.org/badge/763693771.svg)](https://zenodo.org/doi/10.5281/zenodo.10711823)
 
 ## Subscribe
 [Subscribe](http://eepurl.com/ih7iB1) to keep updated with the latest tool releases and join our new community!
