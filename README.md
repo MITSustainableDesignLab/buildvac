@@ -8,10 +8,12 @@ buildVAC is a series of workflows and tools that enable architects to compare a 
 #### [Industry and Practitioner Survey - Sustainability Analysts](https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_bCpPYEcVY7yyrpc)
 
 ## 2. Spreadsheets
-#### [Area Requirements Matrix](https://github.com/MITSustainableDesignLab/buildvac/blob/main/spreadsheet/)
+#### [Design and Calculation Spreadsheets](https://github.com/MITSustainableDesignLab/buildvac/blob/main/spreadsheet/)
 [Video](https://www.youtube.com/watch?v=jFzxosDbtqU&ab_channel=MITSustainableDesignLab) 
 
-This Excel spreadsheet allows for the estimated calculation of the spatial requirements for building systems for a given building geometry. This spreadsheet should be used in the earliest design phase to inform preliminary area requirements. 
+The Area Requirements Spreadsheet estimates the spatial requirements for building systems for a given building geometry.  There is a version for commercial and one for residential buildings. 
+
+The Ventilation Requirements Spreadsheet helps to calculate supply air shaft sizes for all-air and minimum outside air systems. 
 
 ## 3. Scripts
 #### [HVACer-Commercial](https://github.com/MITSustainableDesignLab/buildvac/blob/main/scripts/HVACer.gh)
