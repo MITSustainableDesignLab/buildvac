@@ -16,10 +16,10 @@ The Area Requirements Spreadsheet estimates the spatial requirements for buildin
 The Ventilation Requirements Spreadsheet helps to calculate supply air shaft sizes for all-air and minimum outside air systems. 
 
 ## 3. Scripts
-#### [HVACer-Commercial](https://github.com/MITSustainableDesignLab/buildvac/blob/main/scripts/HVACER_v3.2.gh)
+#### [HVACer](https://github.com/MITSustainableDesignLab/buildvac/blob/main/scripts/HVACER_v3.2.gh)
 [Video](https://www.youtube.com/watch?v=D_wDoszwwno&ab_channel=MITSustainableDesignLab)
 
-This Grasshopper script allows users to select, simulate, and visualize different HVAC systems for early stage massing models for commercial office buildings. Performance metrics such as operational and embodied carbon, financial indicators, and spatial requirements are generated and used to inform system selection. Users are able to manipulate and modify the automatically generated system geometry based on their specific layout. 
+This Grasshopper script allows users to select, simulate, and visualize different HVAC systems for early stage massing models for commercial office and multifamily apartment buildings. Performance metrics such as operational and embodied carbon, financial indicators, and spatial requirements are generated and used to inform system selection. Users are able to manipulate and modify the automatically generated system geometry based on their specific layout. 
 
 A sample file, for a typical 3 story medium office, can be downloaded [here](https://github.com/MITSustainableDesignLab/buildvac/blob/main/Medium%20Office.zip) to be used with the script. 
 
